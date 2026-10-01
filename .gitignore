@@ -1,0 +1,38 @@
+# =====================================================================
+#  Repositorio do auto-update do RF VENORE.
+#  Tudo fica FORA do Git, menos o que esta liberado com "!" abaixo.
+#  Essa lista precisa bater com a do launcher (UpdateMgr.cpp).
+# =====================================================================
+
+# 1) ignora tudo da raiz do client
+/*
+
+# 2) libera o que vai para o auto-update
+!/.gitignore
+!/.gitattributes
+!/manifest.json
+!/RFVenoreLauncher.exe
+!/Qt6*.dll
+!/sirin-launcher.dll
+!/DataTable/
+!/SpriteImage/
+!/Effect/
+!/launcher/
+!/platforms/
+!/styles/
+!/imageformats/
+!/tls/
+!/networkinformation/
+!/generic/
+!/iconengines/
+
+# 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
+/DataTable/GameSetting.ini
+/DataTable/clientdb.dat
+/launcher/cache/
+*.old
+*.part
+*_.edf
+*_.spr
+Thumbs.db
+desktop.ini

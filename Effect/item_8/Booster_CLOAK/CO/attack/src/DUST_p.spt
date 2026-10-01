@@ -1,0 +1,44 @@
+
+
+[Particle]
+entity_file  .\Effect\item_8\Booster_CLOAK\CO\attack\src\DUST_p\smk.R3E
+num	30
+pos box rand(-10,10) rand(0,12) rand(-10,10)
+
+
+live_time 2
+time_speed 2
+gravity	0 0 -2.5
+
+	start_time_range 0.1
+	start_color 200 200 195
+	start_power rand(-3,3) rand(0,3) rand(-3,3)
+	start_scale rand(0.1,0.5)
+	start_alpha 40
+	start_zrot rand(0,360)
+
+
+alpha_type 1
+free
+always_live
+
+
+
+time 0
+
+	alpha 30
+	scale rand(0.1,0.6)
+	zrot rand(-30,30)
+
+time 1
+	alpha 20
+	scale rand(0.7,0.8)
+	zrot rand(-30,30)
+	
+
+time 2
+	alpha 10
+	scale rand(0.3,0.4)
+	zrot rand(-30,30)
+	
+

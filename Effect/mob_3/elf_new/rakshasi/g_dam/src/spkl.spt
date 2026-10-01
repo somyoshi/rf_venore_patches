@@ -1,0 +1,49 @@
+[Particle]
+entity_file .\effect\mob_3\Elf_New\RAKSHASI\G_dam\src\spkl\expl.R3E
+num 20
+pos box rand(-1,1) rand(-1,1) rand(-1,1)
+
+live_time 2
+time_speed 3
+gravity 0 -2 0
+
+	
+        start_time_range 0.7
+	start_scale rand(0.05,0.1)
+	start_alpha 0
+	;start_color 200 150 0
+	start_zrot rand(0,360)
+	start_power rand(-5,5) rand(-1,7) rand(-5,5)
+
+alpha_type 3
+z_front -0.1
+
+flicker_alpha 100
+flicker_time 0.5
+     
+
+time 0.5
+	color 250 250 250
+        ;power rand(-5,5) rand(-5,5) rand(-5,5)
+	alpha 255
+        zrot rand(-60,60)
+	scale rand(0.1,0.15)
+        flicker
+	
+time 1
+	color 250 250 250
+        ;power rand(-5,5) rand(-5,5) rand(-5,5)
+	alpha 200
+        zrot rand(-60,60)
+	scale rand(0.05,0.1)
+        flicker
+
+
+time 2
+	color 150 150 150
+        ;power rand(-5,5) rand(-5,5) rand(-5,5)
+	alpha 0
+        zrot rand(-20,20)
+	scale 0
+        flicker	
+end

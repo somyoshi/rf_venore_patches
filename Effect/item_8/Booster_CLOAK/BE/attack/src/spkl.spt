@@ -1,0 +1,37 @@
+[Particle]
+entity_file .\Effect\item_8\Booster_CLOAK\BE\attack\src\spkl\spkl05.R3E
+num	20
+pos box rand(-10,10) rand(-10,10) rand(-10,10)
+
+live_time 2
+time_speed 3.5
+gravity	0 0 -6
+
+	start_power rand(-10,10) rand(5,14) rand(-10,10)
+	start_time_range 0.7
+	;start_color 255 255 255
+	start_color 255 100 100
+	start_scale rand(1,2)
+	start_alpha 255
+	start_zrot rand(-180,180)
+
+
+alpha_type 3
+always_live
+free
+
+time 0.5
+	zrot 90
+	scale rand(0,3)
+
+time 1
+	zrot 90
+	scale rand(0,2.5)
+
+time 1.5
+	zrot 90
+	scale rand(0,2)
+
+time 2
+	zrot 90
+	scale 0

@@ -1,0 +1,44 @@
+[MagicTrack]
+create_type 17
+;attach
+
+time 0		
+entity_id 9011231     ;모이는빛
+color 143 143 190
+pos xyz 0 0 0
+alpha_apear 0.2
+alpha 255
+scale 0.4
+
+
+time 0.3
+entity_id  9011232     ;원형띠퍼진다
+pos xyz 0 0 -2
+alpha_dispear 0
+scale 1.5
+
+time 0.3	
+entity_id 9011233      ;반짝
+pos xyz 0 0 -3.5
+scale 1
+
+
+time 0.3
+entity_id  9011234     ;날개본체엔티티
+pos xyz 0 0 -10
+scale 1
+alpha_dispear 0
+
+time 0.4
+entity_id  9011234     ;날개본체엔티티
+pos xyz 0 0 -10
+scale 1.5
+alpha_dispear 0
+
+time 0.6
+entity_id  9011234     ;날개본체엔티티
+pos xyz 0 0 -10
+scale 2
+alpha_dispear 0
+
+

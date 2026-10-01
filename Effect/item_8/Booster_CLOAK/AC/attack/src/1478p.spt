@@ -1,0 +1,34 @@
+[Particle]
+entity_file .\Effect\item_8\Booster_CLOAK\AC\attack\src\1478p\1478p.R3E
+
+num	15
+pos box rand(-1,1) 0 rand(-3,11)
+live_time 3
+time_speed 5
+gravity	0 0 0
+
+
+	start_scale 0
+	start_alpha 255
+	start_power 0 -5 rand(1,5)
+	;start_color 100 200 255
+	start_time_range 0.2
+	start_zrot rand(-35,35)
+
+
+alpha_type 3
+no_billboard
+always_live
+free
+
+
+time 1
+	;color 50 100 255
+	alpha 50
+	scale 2
+	
+
+time 3
+	;color 255 255 255
+	alpha 0
+	scale 4

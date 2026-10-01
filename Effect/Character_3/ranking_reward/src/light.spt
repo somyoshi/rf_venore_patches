@@ -1,0 +1,36 @@
+[Particle]
+entity_file .\Effect\Character_3\ranking_reward\src\light\cora_light.R3E
+num	3
+;pos box 0 0 -3
+pos box 0 0 0
+
+live_time 3
+time_speed 1.5
+gravity 0 0 0
+         ;start_power 0 0 1
+	start_scale 0.13
+	start_alpha 255
+	start_color 249 151 255
+	
+	
+alpha_type 3
+y_billboard
+always_live
+;z_disable
+
+time 1
+	alpha 255
+	;color 255 0 55
+	scale 0.13
+        zrot 120  
+
+time 2
+	alpha 255
+        ;color 200 0 250
+	scale 0.13
+        zrot 120 
+
+time 3
+	alpha 255
+	scale 0.13
+        zrot 120 

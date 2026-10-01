@@ -1,0 +1,9 @@
+;대족장근위가드(히어로D)
+0x20ff0ED2	\\mob\attck\d_atk_stn\stone_dam_mag02.spt
+
+
+
+
+
+
+

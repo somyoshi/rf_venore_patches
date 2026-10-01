@@ -1,0 +1,96 @@
+[MagicTrack]
+create_type 10
+
+time 0
+quake_time 0.5
+quake_density 1
+
+
+time 0
+entity_id 5973
+scale 1
+pos xyz 0 -15 0
+
+time 0
+entity_id 5975
+scale 1
+pos xyz 0 -15 0
+
+
+
+
+
+
+time 0
+entity_id 4189
+y_angle 180
+pos xyz 0 -10 0
+scale 0.6
+
+time 0
+entity_id 4189
+pos xyz 0 -10 0
+scale 0.6
+
+time 0
+entity_id 4190
+pos xyz 0 -10 0
+scale 0.8
+
+time 0
+entity_id 4191   ;바닥에튀는돌덩이
+pos xyz 0 -10 0
+scale 0.7
+
+time 0	
+entity_id 4192  ;연기
+alpha_disapear 0.5
+scale 1
+pos xyz 0 -12 0
+
+time 0	
+entity_id 4192  ;연기
+alpha_disapear 0.5
+scale 1
+pos xyz 0 -12 0
+
+
+time 0
+quake_time 0.7
+quake_density 0.4
+
+
+
+
+
+
+
+
+time 0
+entity_id  4154 ;파장
+y_angle 180
+scale 2
+
+
+time 0
+entity_id 4156  ;링
+scale 3.5
+y_angle 180
+
+time 0
+entity_id 4158  ;글로우
+scale 1
+y_angle 180
+
+
+
+
+
+
+
+
+
+
+
+
+

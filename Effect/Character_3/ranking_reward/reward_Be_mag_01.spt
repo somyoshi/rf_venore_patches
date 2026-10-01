@@ -1,0 +1,42 @@
+[MagicTrack]
+create_type 10
+;attach
+
+
+;time 0
+;entity_id 9011287      ;마크본체_3종족공통으로사용+++++사용하지말것
+;pos xyz 0 31.1 0
+;color 100 230 250
+;scale 0.4
+
+time 0
+entity_id 9011279      ;마크본체(외곽큰무늬)_벨라
+pos xyz 0 32.3 0
+color 150 250 250
+scale 0.5
+
+;time 0
+;entity_id 9011276     ;숫자뒤디지털문양
+;pos xyz 0 31.5 0
+;scale 0.3
+
+time 0
+entity_id 9011277     ;돌아가는light
+pos xyz 0 31.7 0
+color 150 250 250
+scale 0.3
+
+;time 0
+;entity_id 9011281      ;월계수+++++++++++사용여부추후판단할것
+;pos xyz 0 28 0
+;color 150 250 250
+;scale 0.9
+
+time 0
+entity_id 9011282      ;1st숫자
+pos xyz 0 31.7 0
+color 250 250 150
+scale 0.7
+
+
+

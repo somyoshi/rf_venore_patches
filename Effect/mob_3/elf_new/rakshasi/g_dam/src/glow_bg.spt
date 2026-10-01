@@ -1,0 +1,42 @@
+[Particle]
+entity_file .\Effect\mob_3\Elf_New\RAKSHASI\G_dam\src\glow_bg\2_rebirth_05.R3E
+num	1
+
+pos box 0 0 0
+live_time 2
+time_speed 6
+gravity	0 0 0
+
+	start_scale rand(0.1,0.2)
+	;start_power rand(-4,4) rand(-4,4) rand(-4,4)
+	start_alpha 150
+	start_color 255 rand(190,230) rand(130,230)
+	;start_zrot rand(0,360)
+	start_time_range 0.5
+
+alpha_type 3
+z_front -0.3
+no_billboard
+
+
+time 0.5
+alpha 120
+
+
+time 1
+alpha 100
+scale rand(0.5,0.9)
+
+
+time 1.5
+scale rand(0.9,1.2)
+alpha 50
+
+
+time 2
+color 255 rand(190,200) rand(100,170)
+scale rand(1.2,1.5)
+alpha 0
+
+
+end

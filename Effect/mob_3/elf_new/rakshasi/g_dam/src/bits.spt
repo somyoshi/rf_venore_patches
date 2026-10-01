@@ -1,0 +1,44 @@
+
+
+[Particle]
+entity_file  .\Effect\mob_3\Elf_New\RAKSHASI\G_dam\src\bits\smk.R3E
+num	4
+pos box  rand(-4,4) rand(-3,4) rand(-4,4)
+live_time 2
+time_speed 3
+gravity	0 -8 0
+
+	;start_time_range 0.9
+        ;start_power rand(-5,5) -3 rand(-5,5)
+	start_scale 0.5
+	start_alpha 255
+	start_color 100 100 100        
+	start_zrot rand(0,360)
+
+
+alpha_type 11
+z_front -0.1
+
+time 0.5
+        alpha 50
+	color 255 255 255
+        ;power rand(-5,5) -3 rand(-5,5)
+	scale rand(0.8,1)
+
+	
+time 1
+        alpha 20
+	color 30 30 30
+        ;power rand(-5,5) rand(-5,5) rand(-5,5)
+	scale rand(1.2,1.5)
+
+time 2
+        alpha 10
+	color 60 60 60
+        ;power rand(-5,5) -3 rand(-5,5)
+	scale rand(2,2.2)
+        	
+
+
+
+end

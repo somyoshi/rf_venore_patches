@@ -1,0 +1,45 @@
+[Particle]
+entity_file .\effect\mob_3\Elf_New\RAKSHASI\cast\src\test_0000\test_0000.R3E
+num 5
+pos box   0 0 0
+live_time 2
+time_speed 4
+gravity 0 -10 0
+
+
+	start_scale 4
+	start_time_range 0.2
+	start_power 0 rand(-5,1) 0
+	start_alpha 255
+	start_color 255 255 255	
+	;start_zrot rand(0,360)
+	;start_yrot rand(0,360)
+        ;start_yrot 45
+	
+	
+alpha_type 3
+;z_front -0.2
+no_billboard
+flicker_alpha 50
+flicker_time 0.3
+
+
+
+time 0.5
+     color 150 255 255
+     alpha 200
+     scale 5
+     flicker
+
+
+
+time 2
+     color 255 255 255
+     alpha 180
+     scale 6.5
+     flicker
+
+
+
+
+end

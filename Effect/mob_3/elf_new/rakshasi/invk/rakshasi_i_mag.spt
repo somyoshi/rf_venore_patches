@@ -1,0 +1,41 @@
+[MagicTrack]
+create_type 2
+
+
+
+;time 0
+;entity_id 300577     ;spot_inv_07(실선)++++++++++++++++++++++++++++++++++사용하지말것
+;scale 3
+;pos xyz 0 5 0
+;color 255 50 50
+
+;time 0
+;entity_id 300578     ;test_light_001_락샤시날개부분빗살_파티클+++++++++++사용하지말것
+;scale 3.5
+;pos xyz 0 5 0
+
+
+
+
+
+
+
+
+
+
+
+time 0
+entity_id 300579     ;test_light_002(사발형실선)
+scale 3
+pos xyz 0 5 0
+
+
+time 0
+entity_id 300580     ;test_light_003
+scale 0.1
+pos xyz 0 5 0
+alpha 255
+
+
+
+end

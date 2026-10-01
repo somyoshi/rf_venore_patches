@@ -1,0 +1,410 @@
+
+[MagicTrack]
+create_type 10
+
+
+;1타==============================================================
+time 0
+entity_id   300594      ;바닥웨이브퍼져나간다_01(엔티티)
+pos xyz 0 0 0
+scale 1
+color 250 100 50 
+
+time 0
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 0 0 0
+scale 1.2
+color 250 100 50 
+
+time 0
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 0 0 0
+scale 1.2
+color 250 100 50 
+
+time 0
+entity_id   300596      ;바닥웨이브퍼져나간다_03(엔티티)
+pos xyz 0 0 0
+scale 0.7
+color 250 100 50 
+
+time 0
+entity_id   300597      ;바닥웨이브퍼져나간다_04(파티클)
+pos xyz 0 0 0
+scale 1
+color 250 100 50  
+
+time 0
+entity_id  300589      ;바닥라이트
+dynamic_light
+color 255 50 50
+scale 3
+
+time 0
+entity_id  300590      ;바닥파편들
+pos xyz 0 -10 0
+scale 1.5
+
+time 0
+entity_id  300588      ;위로솟구치는화염
+scale 0.9
+color 250 100 50 
+
+time 0
+entity_id  300591      ;바닥폭발상단
+pos xyz 0 0 0
+scale 1
+color 250 100 50 
+
+time 0
+entity_id  300592      ;바닥폭발하단
+scale 2.5
+pos xyz 0 0 0
+color 250 100 50 
+
+time 0
+entity_id   300593      ;검은색연기
+pos xyz 0 0 0
+scale 1.2
+
+
+
+;2타==============================================================
+
+time 0.15
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 5 0 -25
+scale 1.2
+color 250 100 50 
+
+time 0.15
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 5 0 -25
+scale 1.2
+color 250 100 50 
+
+time 0.15
+entity_id   300596      ;바닥웨이브퍼져나간다_03(엔티티)
+pos xyz 5 0 -25
+scale 0.7
+color 250 100 50 
+
+time 0.15
+entity_id   300597      ;바닥웨이브퍼져나간다_04(파티클)
+pos xyz 5 0 -25
+scale 1
+color 250 100 50 
+
+time 0.15
+entity_id  300589      ;바닥라이트
+dynamic_light
+color 255 50 50
+pos xyz 5 0 -25
+scale 1.1
+
+time 0.15
+entity_id  300590      ;바닥파편들
+pos xyz 5 -10 -25
+scale 1
+
+time 0.15
+entity_id  300588      ;위로솟구치는화염
+scale 0.6
+pos xyz 5 0 -25
+
+time 0.15
+entity_id  300591      ;바닥폭발상단
+pos xyz 5 0 -25
+scale 1
+
+time 0.15
+entity_id  300592      ;바닥폭발하단
+scale 2.5
+pos xyz 5 0 -25
+
+time 0.15
+entity_id   300593      ;검은색연기
+pos xyz 5 0 -25
+scale 1.2
+
+
+
+
+
+;3타==============================================================
+
+time 0.3
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz -5 0 -50
+scale 1.2
+color 250 100 50 
+
+time 0.3
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz -5 0 -50
+scale 1.2
+color 250 100 50 
+
+time 0.3
+entity_id   300596      ;바닥웨이브퍼져나간다_03(엔티티)
+pos xyz -5 0 -50
+scale 0.7
+color 250 100 50 
+
+time 0.3
+entity_id   300597      ;바닥웨이브퍼져나간다_04(파티클)
+pos xyz -5 0 -50
+scale 1
+color 250 100 50  
+
+time 0.3
+entity_id  300589      ;바닥라이트
+dynamic_light
+color 255 50 50
+pos xyz -5 0 -50
+scale 1.5
+
+time 0.3
+entity_id  300590      ;바닥파편들
+pos xyz -5 -10 -50
+scale 1
+
+time 0.3
+entity_id  300588      ;위로솟구치는화염
+scale 0.6
+pos xyz -5 0 -50
+
+time 0.3
+entity_id  300591      ;바닥폭발상단
+pos xyz -5 0 -50
+scale 1
+
+time 0.3
+entity_id  300592      ;바닥폭발하단
+scale 2.5
+pos xyz -5 0 -50
+
+time 0.3
+entity_id   300593      ;검은색연기
+pos xyz -5 0 -50
+scale 1.2
+
+
+
+
+;4타==============================================================
+
+
+time 0.45
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 5 0 -75
+scale 1.2
+color 250 100 50 
+
+time 0.45
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 5 0 -75
+scale 1.2
+color 250 100 50 
+
+time 0.45
+entity_id   300596      ;바닥웨이브퍼져나간다_03(엔티티)
+pos xyz 5 0 -75
+scale 0.7
+color 250 100 50 
+
+time 0.45
+entity_id   300597      ;바닥웨이브퍼져나간다_04(파티클)
+pos xyz 5 0 -75
+scale 1
+color 250 100 50  
+
+time 0.45
+entity_id  300589      ;바닥라이트
+dynamic_light
+color 255 50 50
+pos xyz 5 0 -75
+scale 1.5
+
+time 0.45
+entity_id  300590      ;바닥파편들
+pos xyz 5 -10 -75
+scale 1
+
+time 0.45
+entity_id  300588      ;위로솟구치는화염
+scale 0.6
+pos xyz 5 0 -75
+
+time 0.45
+entity_id  300591      ;바닥폭발상단
+pos xyz 5 0 -75
+scale 1
+
+time 0.45
+entity_id  300592      ;바닥폭발하단
+scale 2.5
+pos xyz 5 0 -75
+
+time 0.45
+entity_id   300593      ;검은색연기
+pos xyz 5 0 -75
+scale 1.2
+
+
+;5타==============================================================
+
+
+time 0.6
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz -5 0 -100
+scale 1.2
+color 250 100 50 
+
+time 0.6
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz -5 0 -100
+scale 1.2
+color 250 100 50 
+
+time 0.6
+entity_id   300596      ;바닥웨이브퍼져나간다_03(엔티티)
+pos xyz -5 0 -100
+scale 0.7
+color 250 100 50  
+
+time 0.6
+entity_id   300597      ;바닥웨이브퍼져나간다_04(파티클)
+pos xyz -5 0 -100
+scale 1
+color 250 100 50  
+
+time 0.6
+entity_id  300589      ;바닥라이트
+dynamic_light
+color 255 50 50
+pos xyz -5 0 -100
+scale 1.5
+
+time 0.6
+entity_id  300590      ;바닥파편들
+pos xyz -5 -10 -100
+scale 1
+
+time 0.6
+entity_id  300588      ;위로솟구치는화염
+scale 0.6
+pos xyz -5 0 -100
+
+time 0.6
+entity_id  300591      ;바닥폭발상단
+pos xyz -5 0 -100
+scale 1
+
+time 0.6
+entity_id  300592      ;바닥폭발하단
+scale 2.5
+pos xyz -5 0 -100
+
+time 0.6
+entity_id   300593      ;검은색연기
+pos xyz -5 0 -100
+scale 1.2
+
+
+
+;6타==============================================================
+
+
+time 0.75
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 5 0 -125
+scale 1.2
+color 250 100 50  
+
+time 0.75
+entity_id   300595      ;바닥웨이브퍼져나간다_02(엔티티)
+pos xyz 5 0 -125
+scale 1.2
+color 250 100 50  
+
+time 0.75
+entity_id   300596      ;바닥웨이브퍼져나간다_03(엔티티)
+pos xyz 5 0 -125
+scale 0.7
+color 250 100 50  
+
+time 0.75
+entity_id   300597      ;바닥웨이브퍼져나간다_04(파티클)
+pos xyz 5 0 -125
+scale 1
+color 250 100 50  
+
+time 0.75
+entity_id  300589      ;바닥라이트
+dynamic_light
+color 255 50 50
+pos xyz 5 0 -125
+scale 1.5
+
+time 0.75
+entity_id  300590      ;바닥파편들
+pos xyz 5 -10 -125
+scale 1
+
+time 0.75
+entity_id  300588      ;위로솟구치는화염
+scale 0.6
+pos xyz 5 0 -125
+
+time 0.75
+entity_id  300591      ;바닥폭발상단
+pos xyz 5 0 -125
+scale 1
+
+time 0.75
+entity_id  300592      ;바닥폭발하단
+scale 2.5
+pos xyz 5 0 -125
+
+time 0.75
+entity_id   300593      ;검은색연기
+pos xyz 5 0 -125
+scale 1.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end

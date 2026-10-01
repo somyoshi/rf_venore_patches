@@ -1,0 +1,57 @@
+{
+  "banners": [
+    {
+      "image": "banners/banner1.jpg",
+      "title": "The War Begins",
+      "subtitle": "Bellato, Cora e Accretia voltam ao campo de batalha. Escolha seu lado.",
+      "link": ""
+    },
+    {
+      "image": "banners/banner2.jpg",
+      "title": "Sistema de Criação",
+      "subtitle": "Junte minérios e materiais e crie itens direto pelo menu do jogo.",
+      "link": ""
+    },
+    {
+      "image": "banners/banner3.jpg",
+      "title": "Entre no nosso Discord",
+      "subtitle": "Novidades, eventos e suporte da equipe.",
+      "link": "https://discord.com"
+    }
+  ],
+  "news": [
+    {
+      "tag": "Novidade",
+      "title": "Abertura do RF VENORE",
+      "date": "01/10/2026",
+      "text": "O servidor está em fase de testes. Crie sua conta pelo launcher e venha conhecer.",
+      "link": ""
+    },
+    {
+      "tag": "Atualização",
+      "title": "Menu de funções com Banco, Leilão e Criação",
+      "date": "01/10/2026",
+      "text": "Agora dá para abrir o banco, o leilão, a combinação e a criação de itens pelo menu, sem ir até o NPC.",
+      "link": ""
+    },
+    {
+      "tag": "Evento",
+      "title": "Evento de inauguração",
+      "date": "Em breve",
+      "text": "Fique de olho no Discord para as datas.",
+      "link": ""
+    },
+    {
+      "tag": "Manutenção",
+      "title": "Manutenções programadas",
+      "date": "Toda quarta",
+      "text": "Exemplo de aviso com a tag em vermelho. Edite ou apague no news.json.",
+      "link": ""
+    }
+  ],
+  "links": [
+    { "label": "Site", "url": "https://example.com" },
+    { "label": "Discord", "url": "https://discord.com" },
+    { "label": "Regras", "url": "https://example.com/regras" }
+  ]
+}

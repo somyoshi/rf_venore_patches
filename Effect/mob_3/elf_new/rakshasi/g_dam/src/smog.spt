@@ -1,0 +1,58 @@
+;가장마지막연기
+
+[Particle]
+entity_file  .\effect\mob_3\Elf_New\RAKSHASI\G_dam\src\smog\expl.R3E
+num	10
+pos box  rand(-1,1) rand(-1,1) rand(-1,1)
+live_time 4
+time_speed 1.5
+gravity	0 -9 0
+
+	start_time_range 0.9
+	start_power rand(-20,20) rand(-5,5) rand(-20,20)
+	start_scale rand(0.1,0.2)
+	start_alpha 0
+	start_zrot rand(0,360)
+        start_color 10 10 10 
+        
+       
+alpha_type 3
+z_front -0.1
+
+
+time 0.5
+	alpha 150
+	power rand(-8,8) rand(-2,2) rand(-8,8)
+	scale rand(0.5,0.7)
+	zrot rand(-20,20)
+        color 50 50 50
+        
+
+time 1
+	alpha 150
+	power rand(-15,15) rand(-2,2) rand(-15,15)
+	scale rand(0.5,1)
+	zrot rand(-20,20)
+        color 80 80 80
+
+time 2
+	alpha 30
+	power rand(-15,15) rand(-2,2) rand(-15,15)
+	scale rand(1,1.5)
+	zrot rand(-20,20)
+        color 100 100 100
+
+time 4
+	alpha 0
+	power rand(-8,8) rand(-2,2) rand(-8,8)
+	scale rand(1.5,2)
+	zrot rand(-20,20)
+        color 255 255 255
+
+        
+        
+        
+
+
+
+end

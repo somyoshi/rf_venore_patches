@@ -1,0 +1,44 @@
+[Particle]
+entity_file .\Effect\item_8\Booster_CLOAK\BE\attack\src\land_smok_01\blind.R3E
+
+num 10
+pos box rand(-1,1) 0 rand(-1,1)
+live_time 4
+time_speed 7
+gravity	0 0 0
+
+	start_scale  rand(3,4)
+	start_power 0 0 0
+	start_alpha 160
+	start_color 255 255 255
+	alpha_type 3
+	start_zrot rand(-20,10)
+	start_time_range 0.2
+
+;emit_time 1.5
+;z_front -0.1
+always_live 
+free
+
+
+time 1
+color 255 255 255
+alpha 50
+scale rand(2.5,3)
+power 0 0 0
+
+
+time 2
+color 255 255 255
+alpha 30
+scale rand(2,2.5)
+power 0 0 0
+
+
+time 4
+color 255 255 255
+alpha 10
+scale rand(1.5,2)
+power 0 0 0
+
+

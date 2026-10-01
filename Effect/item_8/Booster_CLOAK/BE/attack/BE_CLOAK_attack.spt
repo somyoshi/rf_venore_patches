@@ -1,0 +1,31 @@
+[MagicTrack]
+create_type 10
+
+
+time 0
+entity_id 9011221	;불똥
+pos xyz 0 0 -5
+y_angle 180
+scale 1.5
+
+time 0
+entity_id 9011222	;먼지
+pos xyz 0 -5 -10
+
+time 0
+entity_id 9011223       ;파티클
+pos xyz 0 0 -10
+scale 1
+
+time 0	
+entity_id 9011224       ;베기(바닥에양방향속도)
+pos xyz 0 0 -10
+scale 0.8
+
+time 0
+entity_id 9011225       ;바닥가르는효과_02
+pos xyz 0 0 -5
+
+
+
+

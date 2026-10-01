@@ -1,0 +1,50 @@
+
+
+[Particle]
+entity_file  .\effect\mob_3\Elf_New\RAKSHASI\invk\src\spot_inv_07\spot_inv_07.R3E
+num	3
+;pos box  rand(-5,5) 0 rand(-5,5)
+
+live_time 1
+time_speed 2
+gravity	0 0 0
+
+	;start_time_range 0.9
+	start_scale 1.5
+	start_alpha 255		
+	;start_zrot rand(-15,15)
+
+	
+alpha_type 3
+;z_billboard
+no_billboard
+
+
+
+
+time 0.5
+
+	alpha 150
+        scale 2.2
+        yrot 360
+
+	
+
+time 1	
+	alpha 0
+        scale 3
+
+
+
+time 1.5
+	alpha 0
+        scale 4
+
+
+time 2
+	alpha 0
+
+
+
+
+end
