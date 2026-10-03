@@ -116,7 +116,7 @@ ui.settings.camView=Camera View
 ui.settings.camFov=Camera Fov (Field of View)
 ui.settings.camShake=Camera Shake
 ui.settings.gamePlay=Gameplay
-ui.settings.gemLock=Lock gems
+ui.settings.gemLock=Keep enchant gems in upgrader
 -- UI Settings
 ui.settings.userInterface=User Interface
 ui.settings.resetUI=Reset UI
