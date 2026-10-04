@@ -167,8 +167,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "2f8cd9cc992c0933e814448dd38b7913f785b86a07cfadccc9f2b4218f4205df",
-            "size": 7938954
+            "sha256": "b412864521c7ae47178d829e507d765d232af6679e5accf93f7d7e39843bc674",
+            "size": 7963146
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -247,8 +247,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "dcdd48ce6793cf393162a7e5671b70f07f2de0c4b27e7feeb428095e983f6121",
-            "size": 15029855
+            "sha256": "eeae5de84428e32ad8afef8fc67a8acaef97d511e25737fd15b998a7ebd8b7e8",
+            "size": 15134183
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -7101,6 +7101,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-03T21:08:45",
+    "generated": "2026-10-03T21:49:09",
     "version": 1
 }
