@@ -167,8 +167,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "c28497d53f0fb6a61d2ca81bbd5b0c9d9c54a8800d9d17180d126e7cbaec64fd",
-            "size": 7876973
+            "sha256": "07e43041641ad12930cc96b235befb4bc49e9cfd51e364367a573906e21b1531",
+            "size": 7881965
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -207,7 +207,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "598e65c749d1712a69f39df2d6ee7d553db366d38eb37b8d8fcf67ccc656af70",
+            "sha256": "e42a254ce0cfe478ec577a4354ffcd89c575cf41f2f974cb43e564e138ac1b82",
             "size": 71997
         },
         {
@@ -247,8 +247,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "62d64e6a45b412e42943c4c04ff70e57621341ea7f8e4ef931d39512732e851b",
-            "size": 15149507
+            "sha256": "5ba6c6f51efac57b90ebfeef83d2589c6a607bb0997f6641b590d1be0d94e6e5",
+            "size": 15168227
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -517,7 +517,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "fa96d55e15e02613190a0f582b5e3e483acfb4d3f0e091ee021eba8947b0862c",
+            "sha256": "d35110a8642c50064d5bf4248a07f4ed7d0e215b95aa745cf69ac88a2f98a128",
             "size": 567417
         },
         {
@@ -5996,6 +5996,11 @@
             "size": 1337
         },
         {
+            "path": "SpriteImage/en-ph/aplicar_icones_shields.bat",
+            "sha256": "c26c40a70208bc4babb82b02d16ddf5ac4c46d2a51831ed535bc58ba99bdf739",
+            "size": 1475
+        },
+        {
             "path": "SpriteImage/en-ph/aplicar_icones_venores.bat",
             "sha256": "8796ee36ba70ee1206ab2f0cc3031614ebbe10cc4f97bc6602d5bb963041bf38",
             "size": 1361
@@ -6017,7 +6022,7 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "359f6ef1ace851a89a569ee96409b7000f12515ee59aa0c990138e0684833c3a",
+            "sha256": "2b874eb2e7278f310dea2d435f5af8e583893062f2f3536903bbe0cb3a031c8e",
             "size": 33846196
         },
         {
@@ -6036,6 +6041,11 @@
             "size": 33846196
         },
         {
+            "path": "SpriteImage/en-ph/item.spr.bak_shields",
+            "sha256": "359f6ef1ace851a89a569ee96409b7000f12515ee59aa0c990138e0684833c3a",
+            "size": 33846196
+        },
+        {
             "path": "SpriteImage/en-ph/item_spr_fpsp.patch",
             "sha256": "418fff07a36d29c22365d7d7813ede7600c15cf18135de13fe86e10f49e66bac",
             "size": 8456
@@ -6049,6 +6059,11 @@
             "path": "SpriteImage/en-ph/item_spr_restaura.patch",
             "sha256": "d0c62e99a96aea435db74d0847cfe27c194dd52c62ced73de8d2515d87dd67e9",
             "size": 61448
+        },
+        {
+            "path": "SpriteImage/en-ph/item_spr_shields.patch",
+            "sha256": "8e42d03fedf0ff8188eda05c8ebfd29f13d04dea33891d2bd0bf9a69a74fac3d",
+            "size": 10888
         },
         {
             "path": "SpriteImage/en-ph/itemupgrade.spr",
@@ -7116,6 +7131,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-04T11:11:28",
+    "generated": "2026-10-04T11:41:10",
     "version": 1
 }
