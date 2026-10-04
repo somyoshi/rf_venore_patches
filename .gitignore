@@ -30,6 +30,17 @@
 !/item/
 /item/*
 !/item/Shield/
+# armas premium Venore: so os pacotes novos e os RFSInfo.dat de item/Weapon
+!/item/Weapon/
+/item/Weapon/*
+!/item/Weapon/Mesh/
+!/item/Weapon/Tex/
+/item/Weapon/Mesh/*
+/item/Weapon/Tex/*
+!/item/Weapon/Mesh/RFSInfo.dat
+!/item/Weapon/Tex/RFSInfo.dat
+!/item/Weapon/Mesh/VNR*.RFS
+!/item/Weapon/Tex/VNR*.RFS
 
 # 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
 /DataTable/GameSetting.ini
