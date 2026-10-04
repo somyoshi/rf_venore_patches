@@ -167,7 +167,7 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "b412864521c7ae47178d829e507d765d232af6679e5accf93f7d7e39843bc674",
+            "sha256": "a1f7d77fdd49fccc21d5ab5ac0fd5260f014f8f08674dd391eabf9c52ad84e0b",
             "size": 7963146
         },
         {
@@ -202,12 +202,12 @@
         },
         {
             "path": "DataTable/en-ph/NDSkillForce.edf",
-            "sha256": "2637f8484bcf9ef390c7193304ac89393c51fc013c0910563afdf8797698f48c",
+            "sha256": "d563e3029ac43dbbbd7eaaa8744064a6bea69281594055fe25d9331f6ec6412b",
             "size": 718409
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "165be6a5e713ffb7030024fd1ef4ef738c51c404b4937e90707cfe39b425dd3d",
+            "sha256": "cc48da3a05b910f62b0edc765215522590c3712866262ee51a990f98f5cd2c3f",
             "size": 71997
         },
         {
@@ -247,7 +247,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "eeae5de84428e32ad8afef8fc67a8acaef97d511e25737fd15b998a7ebd8b7e8",
+            "sha256": "bc724d2afdb7f152647ed984c09e8265b66dc2c3751ebb7e4fcaf443d316b4df",
             "size": 15134183
         },
         {
@@ -272,7 +272,7 @@
         },
         {
             "path": "DataTable/ItemTimer.edf",
-            "sha256": "0097ba438b94034ffeac607ee938a2e3a90e11c6deae0056e8ba587f4e6fcce1",
+            "sha256": "b170617b1e7594dd0e1b1639caf5fd1f8f15a5ae909bfac76b4fdbc2344f9d2e",
             "size": 17937
         },
         {
@@ -292,7 +292,7 @@
         },
         {
             "path": "DataTable/Quest.edf",
-            "sha256": "d1f0551610fd088a6fd05e275ad8260570ce0bbbb2d11db92de430fa10973b22",
+            "sha256": "59b0c21932b4a8752ed967878d177575750138ee8fdec80fe1d8f36c62e13893",
             "size": 1276641
         },
         {
@@ -512,12 +512,12 @@
         },
         {
             "path": "DataTable/SkillForce.edf",
-            "sha256": "59f464df83f7c4a39452ce60ecf715fa0b207e81fd0363d705805bc8ee7abb54",
+            "sha256": "50504b7543b00557d2b5d15a7b8b87f9db5be40e11fff9b9a35ebde397926031",
             "size": 1476617
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "48186a0404bd9683c8a6d7c1050d6323030dd578bf75d304c99e7e261294a7c6",
+            "sha256": "27f641fd9f63807bf6daa9467375091d839dcf2076e7dcbcfff50ec836980e28",
             "size": 567417
         },
         {
@@ -7101,6 +7101,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-03T21:49:09",
+    "generated": "2026-10-03T22:09:42",
     "version": 1
 }
