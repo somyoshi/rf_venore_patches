@@ -26,6 +26,10 @@
 !/networkinformation/
 !/generic/
 !/iconengines/
+# modelos 3D dos shields novos (57-67). So a pasta Shield; o resto de item/ vem pelo instalador
+!/item/
+/item/*
+!/item/Shield/
 
 # 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
 /DataTable/GameSetting.ini
@@ -37,3 +41,18 @@
 *_.spr
 Thumbs.db
 desktop.ini
+# arquivos de desenvolvimento (backups, patches e scripts) nunca vao para o jogador
+*.bak
+*.bak_*
+*.patch
+*.bat
+# lixo de testes antigos dos shields (caso ainda exista)
+/item/Shield/Mesh/*_17[6-9].msh
+/item/Shield/Mesh/*_180.msh
+/item/Shield/Tex/VNR_*.dds
+/item/Shield/Tex/VNRSHT.RFS
+/item/Shield/Tex/VNRT01.RFS
+/item/Shield/Tex/VNRT04.RFS
+/item/Shield/Tex/VNRT06.RFS
+/item/Shield/Tex/VNRT08.RFS
+/item/Shield/Tex/VNRT10.RFS

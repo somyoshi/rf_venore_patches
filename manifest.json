@@ -167,7 +167,7 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "07e43041641ad12930cc96b235befb4bc49e9cfd51e364367a573906e21b1531",
+            "sha256": "3e10fc6b4033ea78ed2c4953087610c10c9164a7f9227aa4d30247eaf8350238",
             "size": 7881965
         },
         {
@@ -207,7 +207,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "e42a254ce0cfe478ec577a4354ffcd89c575cf41f2f974cb43e564e138ac1b82",
+            "sha256": "8cf1de3c82ffd75dd4bbbc29d96c32b55a6daf58e2346fa2d7ea05f9454b2053",
             "size": 71997
         },
         {
@@ -247,7 +247,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "5ba6c6f51efac57b90ebfeef83d2589c6a607bb0997f6641b590d1be0d94e6e5",
+            "sha256": "e468fc76ec18b611627255d62b1d536facdb60e3bdc5bbccd1edc6079bb3e760",
             "size": 15168227
         },
         {
@@ -297,8 +297,8 @@
         },
         {
             "path": "DataTable/Resource.edf",
-            "sha256": "7db84c15aeddfde27d1e3c9dd6b647d5dd5ae15501ce76d39a889a91a14e43eb",
-            "size": 7715485
+            "sha256": "b52ccfa54f194f2af712ad4570bcea14c3298367a16d0601367972f7e05fc6f7",
+            "size": 7717781
         },
         {
             "path": "DataTable/ru-ru/ar.scp",
@@ -517,7 +517,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "d35110a8642c50064d5bf4248a07f4ed7d0e215b95aa745cf69ac88a2f98a128",
+            "sha256": "f9b8f99f45ba77bdd5b4791ac71b1bed7590042794436f0b0158c491d25ee5d8",
             "size": 567417
         },
         {
@@ -1308,11 +1308,6 @@
         {
             "path": "Effect/EffectEntity58.rpk",
             "sha256": "b85ec041031b988752f70d0199b9a6a41443ce365c2af1122c6d409ec78a7c72",
-            "size": 11463485
-        },
-        {
-            "path": "Effect/EffectEntity58.rpk.bak_setas",
-            "sha256": "bc9d1cba62f3f5241044133973a3bc078be8719c0d4fa923be95d2387407ca22",
             "size": 11463485
         },
         {
@@ -2711,6 +2706,186 @@
             "size": 40248
         },
         {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_021.bn",
+            "sha256": "8fef3401d637d33db70c4c7ad8297d325163ad465cf1e1ce697902821a0de7ea",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_025.bn",
+            "sha256": "8fef3401d637d33db70c4c7ad8297d325163ad465cf1e1ce697902821a0de7ea",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_029.bn",
+            "sha256": "8fef3401d637d33db70c4c7ad8297d325163ad465cf1e1ce697902821a0de7ea",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_031.bn",
+            "sha256": "270256d40d8243ce9675d21a2e9136eaad73f46c4232d4f05fa5f134b52554c7",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_033.bn",
+            "sha256": "8fef3401d637d33db70c4c7ad8297d325163ad465cf1e1ce697902821a0de7ea",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_037.bn",
+            "sha256": "8fef3401d637d33db70c4c7ad8297d325163ad465cf1e1ce697902821a0de7ea",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/ACCRETIA_ARMOR_LSHIELD_173.bn",
+            "sha256": "8fef3401d637d33db70c4c7ad8297d325163ad465cf1e1ce697902821a0de7ea",
+            "size": 70448
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_021.bn",
+            "sha256": "889277a66f4bbbed7fdb4e1bfcdb001a12e582919a7fa608cf6bf1d2aad23c91",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_025.bn",
+            "sha256": "889277a66f4bbbed7fdb4e1bfcdb001a12e582919a7fa608cf6bf1d2aad23c91",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_029.bn",
+            "sha256": "889277a66f4bbbed7fdb4e1bfcdb001a12e582919a7fa608cf6bf1d2aad23c91",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_031.bn",
+            "sha256": "41a00565d55bfb4b1d50a7c43a572f0048354a08ed8d24034861829ed4e36f1a",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_033.bn",
+            "sha256": "889277a66f4bbbed7fdb4e1bfcdb001a12e582919a7fa608cf6bf1d2aad23c91",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_037.bn",
+            "sha256": "889277a66f4bbbed7fdb4e1bfcdb001a12e582919a7fa608cf6bf1d2aad23c91",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Bone/BELCOR_ARMOR_LSHIELD_085.bn",
+            "sha256": "889277a66f4bbbed7fdb4e1bfcdb001a12e582919a7fa608cf6bf1d2aad23c91",
+            "size": 67423
+        },
+        {
+            "path": "item/Shield/Mesh/ACCRETIA_ARMOR_LSHIELD_031.msh",
+            "sha256": "a85555a3ba1edb6222591ff7fe9c0a4beaad4ed56e01219c78d7077e3fad8074",
+            "size": 106242
+        },
+        {
+            "path": "item/Shield/Mesh/BELCOR_ARMOR_LSHIELD_031.msh",
+            "sha256": "01d9e8db2093628ee718e96288859979005bb010f390b41df8dc6e4037ffccf6",
+            "size": 81976
+        },
+        {
+            "path": "item/Shield/Mesh/ELFSHM01.RFS",
+            "sha256": "ddaabf8f43fbcdd3621e22f88f40803baac3cbba40d38b2582a7137f0823f310",
+            "size": 109675
+        },
+        {
+            "path": "item/Shield/Mesh/ori6770.RFS",
+            "sha256": "4b0773aab761f98414101697c354cda6fdf75d5e2e665e974c7bc7225a8c11ec",
+            "size": 177349
+        },
+        {
+            "path": "item/Shield/Mesh/ORI70.RFS",
+            "sha256": "4b0773aab761f98414101697c354cda6fdf75d5e2e665e974c7bc7225a8c11ec",
+            "size": 177349
+        },
+        {
+            "path": "item/Shield/Mesh/RFSInfo.dat",
+            "sha256": "21af4834c976aeb7bc5e89bd04ec58a3549edf87a1930ec83d11f975fa189a35",
+            "size": 61
+        },
+        {
+            "path": "item/Shield/Mesh/SHDACM.RFS",
+            "sha256": "2a913fe594c0b29c780ee9ec0bbe66c5d867eee549928e7b8aaf8c2a6dd66254",
+            "size": 1251893
+        },
+        {
+            "path": "item/Shield/Mesh/SHDBCM.RFS",
+            "sha256": "cce2adf12df0268f4ed111a57ed3709c47032421b8893c5c3bbfde756b900259",
+            "size": 1270326
+        },
+        {
+            "path": "item/Shield/Mesh/VNRSHM.RFS",
+            "sha256": "00b40f8b0170d3c73cca681fa2a74784ce3881d5ee12304b638b63e43f3895ae",
+            "size": 511714
+        },
+        {
+            "path": "item/Shield/Tex/AC_LSHIELD_031.dds",
+            "sha256": "28c3b00574512b7f6c6fe7d728bce9daf7376d77c9ff8b635022edd99651a7e6",
+            "size": 262272
+        },
+        {
+            "path": "item/Shield/Tex/BECO_LSHIELD_031.dds",
+            "sha256": "b8b643cb74fbaaa5f02e243ac9588ca92172e1bf57b65670500e9da6c8826b96",
+            "size": 349680
+        },
+        {
+            "path": "item/Shield/Tex/ELFSHT01.RFS",
+            "sha256": "55ace749462c0c0ee0eee36df25dbe6bb54d005631054f5d796c3e275f18ad1d",
+            "size": 699492
+        },
+        {
+            "path": "item/Shield/Tex/ori6770.RFS",
+            "sha256": "123be0bd13c54cf00d8b1b3ae1c48ec42be4febe309d2dba6618600d85316dde",
+            "size": 524676
+        },
+        {
+            "path": "item/Shield/Tex/ORI70.RFS",
+            "sha256": "123be0bd13c54cf00d8b1b3ae1c48ec42be4febe309d2dba6618600d85316dde",
+            "size": 524676
+        },
+        {
+            "path": "item/Shield/Tex/RFSInfo.dat",
+            "sha256": "cf0cb0ef80836d766437ff12c1714e3930446d49a0e3e09a8185dad28466874e",
+            "size": 109
+        },
+        {
+            "path": "item/Shield/Tex/SHDACT.RFS",
+            "sha256": "0896c0d3c56dc55d73d908f8652bd29c52bfe946834cdfdc337f9c6b3a7d9d76",
+            "size": 5422348
+        },
+        {
+            "path": "item/Shield/Tex/SHDBCT.RFS",
+            "sha256": "c8290374ea34cb9e3cc874600ee630a599d42bd7272b8e3842fb901b03732928",
+            "size": 5247556
+        },
+        {
+            "path": "item/Shield/Tex/VNRT02.RFS",
+            "sha256": "f3979cab27b7055fcbdf619aa9990831e4f4ea6d8006953495f484d18c4f3179",
+            "size": 174972
+        },
+        {
+            "path": "item/Shield/Tex/VNRT03.RFS",
+            "sha256": "9fa1faaf6a4114cb04cb8d367100fa71f5f306759e678c64a8571fbde80464a0",
+            "size": 174972
+        },
+        {
+            "path": "item/Shield/Tex/VNRT05.RFS",
+            "sha256": "2c0c4d1f0eca3085ba6aa3700a03ce04a51b0e56aea8c87f9769387e4da69577",
+            "size": 174972
+        },
+        {
+            "path": "item/Shield/Tex/VNRT07.RFS",
+            "sha256": "83e69597ee650634491c1a8e381054b69e7bb03f51e22216f737a25b6ed683a3",
+            "size": 174972
+        },
+        {
+            "path": "item/Shield/Tex/VNRT09.RFS",
+            "sha256": "a62fd26653d5b7f0ef109de94bcaaf1b26513ff1e9cdec13e01a873e4587b16e",
+            "size": 174972
+        },
+        {
             "path": "launcher/banners/banner1.jpg",
             "sha256": "d68b105948549c51ec7267e2888b603a9b67209d27812150dc21029154c31376",
             "size": 45527
@@ -2767,8 +2942,8 @@
         },
         {
             "path": "RFVenoreLauncher.exe",
-            "sha256": "cc5d1edde32cba3b6952f5ad3550de2b725bcf1d40532ac62728959e4be7e85c",
-            "size": 408576
+            "sha256": "1a2064919c422e01f7e5002df424dfc5acdc99fc674e769e2135e76422ab32e0",
+            "size": 409600
         },
         {
             "path": "sirin-launcher.dll",
@@ -5241,11 +5416,6 @@
             "size": 2536452
         },
         {
-            "path": "SpriteImage/common/main.spr.bak_setas",
-            "sha256": "6cbabc2c4c66b43e6508daea04bdfa875e8936b7a8a10ec85af4e307b843d43f",
-            "size": 2536452
-        },
-        {
             "path": "SpriteImage/common/Map/Acc_Base.spr",
             "sha256": "8b731aafbb55cff0b78982cf9d24b936e7dc515825c38bc4b6d2e951676e10ed",
             "size": 262180
@@ -5981,31 +6151,6 @@
             "size": 524324
         },
         {
-            "path": "SpriteImage/en-ph/aplicar_icone_protecao.bat",
-            "sha256": "1aee50f6b69fcf6b69a0faeb7d56e40b26ff997807f9b20e0436253dbc9bfd60",
-            "size": 1354
-        },
-        {
-            "path": "SpriteImage/en-ph/aplicar_icones_baus.bat",
-            "sha256": "baf2bdba8390fc6680d3e55db6894a788b8cfa4d9c934ebdd55de92f52a746cd",
-            "size": 1461
-        },
-        {
-            "path": "SpriteImage/en-ph/aplicar_icones_fpsp.bat",
-            "sha256": "6897bbdd4262f89fe7cd2e0768298b5ecfdfc70d67f5a586820b32ac79956570",
-            "size": 1337
-        },
-        {
-            "path": "SpriteImage/en-ph/aplicar_icones_shields.bat",
-            "sha256": "c26c40a70208bc4babb82b02d16ddf5ac4c46d2a51831ed535bc58ba99bdf739",
-            "size": 1475
-        },
-        {
-            "path": "SpriteImage/en-ph/aplicar_icones_venores.bat",
-            "sha256": "8796ee36ba70ee1206ab2f0cc3031614ebbe10cc4f97bc6602d5bb963041bf38",
-            "size": 1361
-        },
-        {
             "path": "SpriteImage/en-ph/CashShop.spr",
             "sha256": "5d95af6a86dbc7bde4149df0f4e46b4b1158eb54a966b6b693443ac9b91b7218",
             "size": 5491388
@@ -6022,48 +6167,8 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "2b874eb2e7278f310dea2d435f5af8e583893062f2f3536903bbe0cb3a031c8e",
+            "sha256": "40dbe46837e0b8723836b89f37c23a9c7fd2418dcf7a39bb0180704966144716",
             "size": 33846196
-        },
-        {
-            "path": "SpriteImage/en-ph/item.spr.bak_fpsp",
-            "sha256": "d8ef293c46f8b7a8a56134dc0b6086f137de7d04d9632e8f827ff53c9013e6ec",
-            "size": 33846196
-        },
-        {
-            "path": "SpriteImage/en-ph/item.spr.bak_protecao",
-            "sha256": "f4d0bad82f95ebc7ee744550845856aa952fe1817057eb5a6437a30e561a2a7d",
-            "size": 33846196
-        },
-        {
-            "path": "SpriteImage/en-ph/item.spr.bak_restaura",
-            "sha256": "30b0c8d5702a233e8d7685f1a393fb72e2800c3a997d9f7f3337a3052586f0e9",
-            "size": 33846196
-        },
-        {
-            "path": "SpriteImage/en-ph/item.spr.bak_shields",
-            "sha256": "359f6ef1ace851a89a569ee96409b7000f12515ee59aa0c990138e0684833c3a",
-            "size": 33846196
-        },
-        {
-            "path": "SpriteImage/en-ph/item_spr_fpsp.patch",
-            "sha256": "418fff07a36d29c22365d7d7813ede7600c15cf18135de13fe86e10f49e66bac",
-            "size": 8456
-        },
-        {
-            "path": "SpriteImage/en-ph/item_spr_protecao.patch",
-            "sha256": "db1a3c60b91829202427ffa1eb6cb94227c97953a149a9b004a9308c87883ad4",
-            "size": 4232
-        },
-        {
-            "path": "SpriteImage/en-ph/item_spr_restaura.patch",
-            "sha256": "d0c62e99a96aea435db74d0847cfe27c194dd52c62ced73de8d2515d87dd67e9",
-            "size": 61448
-        },
-        {
-            "path": "SpriteImage/en-ph/item_spr_shields.patch",
-            "sha256": "8e42d03fedf0ff8188eda05c8ebfd29f13d04dea33891d2bd0bf9a69a74fac3d",
-            "size": 10888
         },
         {
             "path": "SpriteImage/en-ph/itemupgrade.spr",
@@ -6564,11 +6669,6 @@
             "path": "SpriteImage/en-ph/login.spr",
             "sha256": "8fe4fa60d3c7b57bc7f39d1b0bb3cff891ab0a92b1f2d9dfb738ba2af3400e85",
             "size": 1840616
-        },
-        {
-            "path": "SpriteImage/en-ph/restaurar_icones.bat",
-            "sha256": "61dd3a41494669d564d529503e4ee04bbd77208eaec67aad995a458a868a1300",
-            "size": 1367
         },
         {
             "path": "SpriteImage/exchange.spr",
@@ -7131,6 +7231,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-04T11:41:10",
+    "generated": "2026-10-04T14:22:51",
     "version": 1
 }
