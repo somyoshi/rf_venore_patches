@@ -167,8 +167,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "c39f4fb8ac0ccd63d8521c6691371943162448a76d75ec995eb2198332be705d",
-            "size": 7963330
+            "sha256": "a858481c343887588b236fd437d0d9d4add6a298c4c1010df7d480fbb89345f8",
+            "size": 7963319
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -202,7 +202,7 @@
         },
         {
             "path": "DataTable/en-ph/NDSkillForce.edf",
-            "sha256": "bc4efda2df90557c04894676ed9fa3a0f6fabd7fb6772b7688cc29d62eeb237b",
+            "sha256": "4039a77649bf4b5a50a2307b54cfde740fd00a9926eddbbe9cee044c67343bf4",
             "size": 718953
         },
         {
@@ -247,7 +247,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "76ac105e223cb8c8e63535dd9fac6125f6b4018d8e21f0fc17ffd0a3f03eef89",
+            "sha256": "54bb28656a118043bf41541eccdafc84d826e9108aa9ea08a065a863ba274ed2",
             "size": 15134387
         },
         {
@@ -512,7 +512,7 @@
         },
         {
             "path": "DataTable/SkillForce.edf",
-            "sha256": "c38d3a99f81856c4303f7cc15e3f91df969676cf859b8c3f6d7687ac3d4a8cee",
+            "sha256": "56e17100bed52799e0d150eb0309a02122e2462da45ec951f833558d8f5b8fea",
             "size": 1477737
         },
         {
@@ -7116,6 +7116,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-04T00:18:58",
+    "generated": "2026-10-04T00:37:20",
     "version": 1
 }
