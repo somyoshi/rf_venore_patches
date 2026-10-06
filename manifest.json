@@ -1,6 +1,36 @@
 {
     "files": [
         {
+            "path": "Character/Player/Mesh/RFSInfo.dat",
+            "sha256": "ec15c1bbe14621bf279d99b5bcfe2d3795346d0ab1ba4a4ea57a4e6619ffbd8f",
+            "size": 1071
+        },
+        {
+            "path": "Character/Player/Mesh/VNRDRM.RFS",
+            "sha256": "f046184f47c885588d01b88c78ae8e5b08254d35096544f3820cf220e6089fdc",
+            "size": 17039167
+        },
+        {
+            "path": "Character/Player/Tex/RFSInfo.dat",
+            "sha256": "cea9741f851c973dd0feb708864d6819300f60ef07be499f87abaf6779f9f890",
+            "size": 1042
+        },
+        {
+            "path": "Character/Player/Tex/VNRDBT.RFS",
+            "sha256": "93d89198e46f286e5b8242cb63e5672b3729bc7fc527bc483e41e935c6798071",
+            "size": 19229364
+        },
+        {
+            "path": "Character/Player/Tex/VNRDOT.RFS",
+            "sha256": "ff97424768f5edf715198c23639a5913dd262b5183c0fdec23d39da186b9e720",
+            "size": 19229364
+        },
+        {
+            "path": "Character/Player/Tex/VNRDRT.RFS",
+            "sha256": "a40986397037f914bf23dab49730ad81f5845e3a22c97578f9b212f82d5d1344",
+            "size": 19229364
+        },
+        {
             "path": "d3d9.dll",
             "sha256": "95b126778736fef43b01c9f80b8a8cb4ab00c0e61523851d45148b6a57456330",
             "size": 22736400
@@ -167,8 +197,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "95ff2ca7edc1e8ed26021fc7cdc41c89f8ed55a48e0c777881118bcea6b05f6c",
-            "size": 7882419
+            "sha256": "d7b6b4e6b1f2643308fb2bb6c78e502d3c48569aaf4289ff94371cf6a72a39d8",
+            "size": 7876284
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -207,7 +237,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "7b16d4b80976c4e934b945f7c5df13fd1c28e8a7f249ca1c24bc7a4e52d390f3",
+            "sha256": "05c28c921441ffccdc9229a45357aa5cfc026f7062af6be6ab4e73fcdd7782d7",
             "size": 72090
         },
         {
@@ -247,8 +277,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "a376ac7585fa80c65d9e6c7e46323be017865d3667324f96b414a5fa53b09983",
-            "size": 15182631
+            "sha256": "4739f89efa5dbf9b651ed08000417f6ab6ed415c73cb776533ad1b2078ec5d8a",
+            "size": 15215031
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -297,8 +327,8 @@
         },
         {
             "path": "DataTable/Resource.edf",
-            "sha256": "d17fbd3869515ac5bc598c9b3328d71ea67fa8a7743c9e7b56cae47dc0937500",
-            "size": 7718765
+            "sha256": "3e825ed2eaf25325377fcd5cbad19e81c8f72f1c7ffd96f50c3f669ab4bdef96",
+            "size": 7743365
         },
         {
             "path": "DataTable/ru-ru/ar.scp",
@@ -517,7 +547,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "6c226cb8c8f751da012e1ddf94e1eb743634388f52ecc21d6c020357f54eb5c7",
+            "sha256": "c2bea678b9e4ae20e055ddfe645ecb3407126a8473df90b517252219974ae110",
             "size": 567417
         },
         {
@@ -2886,6 +2916,26 @@
             "size": 174972
         },
         {
+            "path": "item/Weapon/Mesh/RFSInfo.dat",
+            "sha256": "5fce696d5a751f1d6f594c1a631e87e31015e552a61599367f508d68701aa5a0",
+            "size": 270
+        },
+        {
+            "path": "item/Weapon/Mesh/VNRWM.RFS",
+            "sha256": "ca306806b83413518aa8d2bb0bad8d1cd7154bd464b65bea9638939177543a6a",
+            "size": 383455
+        },
+        {
+            "path": "item/Weapon/Tex/RFSInfo.dat",
+            "sha256": "7d0b0251d3923c24fb30c3a774ec8b3b791f2e9c76df14780e09c399bf43ad7e",
+            "size": 277
+        },
+        {
+            "path": "item/Weapon/Tex/VNRWT.RFS",
+            "sha256": "baea87ca58c61363cec832b4fbba71fb3f0c1c4b4145271dac79687b08243a65",
+            "size": 1049204
+        },
+        {
             "path": "launcher/banners/banner1.jpg",
             "sha256": "d68b105948549c51ec7267e2888b603a9b67209d27812150dc21029154c31376",
             "size": 45527
@@ -2942,8 +2992,8 @@
         },
         {
             "path": "RFVenoreLauncher.exe",
-            "sha256": "1a2064919c422e01f7e5002df424dfc5acdc99fc674e769e2135e76422ab32e0",
-            "size": 409600
+            "sha256": "b91a805d1cb7bed174e1beebd8dd1fd47fa8059d3e3a1927f78ecfb87331b0ea",
+            "size": 411136
         },
         {
             "path": "sirin-launcher.dll",
@@ -7231,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-05T23:50:52",
+    "generated": "2026-10-06T01:40:06",
     "version": 1
 }

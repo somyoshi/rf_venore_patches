@@ -41,6 +41,19 @@
 !/item/Weapon/Tex/RFSInfo.dat
 !/item/Weapon/Mesh/VNR*.RFS
 !/item/Weapon/Tex/VNR*.RFS
+# armaduras Dragon (Red/Black/Gold): so os pacotes novos e os RFSInfo.dat de Character/Player
+!/Character/
+/Character/*
+!/Character/Player/
+/Character/Player/*
+!/Character/Player/Mesh/
+!/Character/Player/Tex/
+/Character/Player/Mesh/*
+/Character/Player/Tex/*
+!/Character/Player/Mesh/RFSInfo.dat
+!/Character/Player/Tex/RFSInfo.dat
+!/Character/Player/Mesh/VNR*.RFS
+!/Character/Player/Tex/VNR*.RFS
 
 # 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
 /DataTable/GameSetting.ini
