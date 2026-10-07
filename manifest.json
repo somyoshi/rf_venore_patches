@@ -167,12 +167,12 @@
         },
         {
             "path": "DataTable/en-ph/KeyMap.dat",
-            "sha256": "727ad301a66ea7e3a72f6cdeb5de9f29e7dd65231261e00faf97899e016a2dbd",
-            "size": 1971
+            "sha256": "74c72153ca7b4a3d2e7568c4e3462962c1952576e7f854154ed9814d0f765c85",
+            "size": 1972
         },
         {
             "path": "DataTable/en-ph/KeyMap_NKM.dat",
-            "sha256": "5d54ac661dcb7b0f7c7e69454dd86708b07dcf962792070ba44a981cedb50a33",
+            "sha256": "c4b8249bd93e08ecb6d4013d64051e3e2e4e817295f79416675dfb23657b0fc6",
             "size": 1912
         },
         {
@@ -7281,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-07T20:10:15",
+    "generated": "2026-10-07T20:49:01",
     "version": 1
 }
