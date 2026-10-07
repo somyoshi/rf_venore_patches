@@ -2992,7 +2992,7 @@
         },
         {
             "path": "RFVenoreLauncher.exe",
-            "sha256": "a91cd8cee13d2b1685a23bf6900c7fecc36f76fbc6e3adaa90d0c658242a5a86",
+            "sha256": "786058299a30a0811837476e5d8b98126d6d5c668cd58ea700d94c492d2ba76d",
             "size": 494080
         },
         {
@@ -7281,6 +7281,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-07T20:06:53",
+    "generated": "2026-10-07T20:10:15",
     "version": 1
 }
