@@ -58,6 +58,9 @@
 # 3) dentro dessas pastas, arquivos que o jogo/jogador altera ou backups
 /DataTable/GameSetting.ini
 /DataTable/clientdb.dat
+# teclas do jogador (cada um configura as suas)
+/DataTable/*/KeyMap.dat
+/DataTable/*/KeyMap_NKM.dat
 /launcher/cache/
 *.old
 *.part
