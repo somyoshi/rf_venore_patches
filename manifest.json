@@ -166,16 +166,6 @@
             "size": 3314
         },
         {
-            "path": "DataTable/en-ph/KeyMap.dat",
-            "sha256": "74c72153ca7b4a3d2e7568c4e3462962c1952576e7f854154ed9814d0f765c85",
-            "size": 1972
-        },
-        {
-            "path": "DataTable/en-ph/KeyMap_NKM.dat",
-            "sha256": "c4b8249bd93e08ecb6d4013d64051e3e2e4e817295f79416675dfb23657b0fc6",
-            "size": 1912
-        },
-        {
             "path": "DataTable/en-ph/LauncherMessage.ini",
             "sha256": "2660dde0f9e63162309b764b4694c4c8b30ffab53a9d7f28c6e146b71971051b",
             "size": 10279
@@ -439,16 +429,6 @@
             "path": "DataTable/ru-ru/iua.dic",
             "sha256": "aafe9b9f56240500275c9d68668cef1eb186b69a480a32f04ff785b8c8514458",
             "size": 212
-        },
-        {
-            "path": "DataTable/ru-ru/KeyMap.dat",
-            "sha256": "727ad301a66ea7e3a72f6cdeb5de9f29e7dd65231261e00faf97899e016a2dbd",
-            "size": 1971
-        },
-        {
-            "path": "DataTable/ru-ru/KeyMap_NKM.dat",
-            "sha256": "5d54ac661dcb7b0f7c7e69454dd86708b07dcf962792070ba44a981cedb50a33",
-            "size": 1912
         },
         {
             "path": "DataTable/ru-ru/LauncherMessage.ini",
@@ -2992,8 +2972,8 @@
         },
         {
             "path": "RFVenoreLauncher.exe",
-            "sha256": "786058299a30a0811837476e5d8b98126d6d5c668cd58ea700d94c492d2ba76d",
-            "size": 494080
+            "sha256": "cd4f829c88b86905c8d056f4845a576baedb37e40f6479dc1571c5dc7be3d954",
+            "size": 494592
         },
         {
             "path": "sirin-launcher.dll",
@@ -7281,6 +7261,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-07T20:56:24",
+    "generated": "2026-10-07T20:59:08",
     "version": 1
 }
