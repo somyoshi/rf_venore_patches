@@ -2972,8 +2972,8 @@
         },
         {
             "path": "RFVenoreLauncher.exe",
-            "sha256": "cd4f829c88b86905c8d056f4845a576baedb37e40f6479dc1571c5dc7be3d954",
-            "size": 494592
+            "sha256": "02405f7aa9d9b36b66c187bef688aaec33f95844e6c3ef905ba5a69882a4eba1",
+            "size": 494080
         },
         {
             "path": "sirin-launcher.dll",
@@ -7261,6 +7261,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-07T22:08:35",
+    "generated": "2026-10-07T22:09:43",
     "version": 1
 }
