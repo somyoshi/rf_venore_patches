@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "11f754ee84ba8c02f2f8612b86f6d4c6f3ce28a70bf1189d6c90093f2afe1db8",
-            "size": 7791029
+            "sha256": "f9e4301343773e64e7e3390aead3059dccfbc2feff1b8b9e9025a55ac7f1cb9e",
+            "size": 7791176
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -222,8 +222,8 @@
         },
         {
             "path": "DataTable/en-ph/NDSkillForce.edf",
-            "sha256": "4039a77649bf4b5a50a2307b54cfde740fd00a9926eddbbe9cee044c67343bf4",
-            "size": 718953
+            "sha256": "21dc4b3cd41fb7bf0de519d73632e947f2416a6c37f84c153d7a1540a54fd950",
+            "size": 719497
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
@@ -267,8 +267,8 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "d755404287a161feeaa973d3345bbd809819378c971f1c5c61308861a7a79c7e",
-            "size": 15218535
+            "sha256": "a45ed32c662fb7c9702553b71dfe49e44e1ea89a56cd910207c2467e63ac0364",
+            "size": 15218943
         },
         {
             "path": "DataTable/itemcash.edf",
@@ -282,7 +282,7 @@
         },
         {
             "path": "DataTable/ItemPremium.edf",
-            "sha256": "329e878640bfd1dd74401a701bd99886894f77e82f73f1b0c796c1a8e14f8e0c",
+            "sha256": "973f5de2d48553247a6a8cf95225f579828c444ca2b0f16da25ef09822952dfa",
             "size": 270241
         },
         {
@@ -522,8 +522,8 @@
         },
         {
             "path": "DataTable/SkillForce.edf",
-            "sha256": "56e17100bed52799e0d150eb0309a02122e2462da45ec951f833558d8f5b8fea",
-            "size": 1477737
+            "sha256": "a7c2faf26873eab7fa9127668d70ad238745b83fdbf99c235db6162d10f3616e",
+            "size": 1478857
         },
         {
             "path": "DataTable/Store.edf",
@@ -7261,6 +7261,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-07T21:45:17",
+    "generated": "2026-10-07T21:59:33",
     "version": 1
 }
