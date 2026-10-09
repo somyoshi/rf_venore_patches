@@ -187,7 +187,7 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "8ce41d347ffac4ebc8571a598b97688025d6b71c59e5f4d57bf7d60211c2eefd",
+            "sha256": "f8eae59dd119d341d39f77616f59be704b12c62f22ffd6a77960c997f0a7985c",
             "size": 7790209
         },
         {
@@ -267,7 +267,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "1687e8b25fd114edcd4eb61d17a2ea47595add08a5ab696e450aca5820236ae6",
+            "sha256": "87b6a8a1eb0eb978a3c7fb26316086b7442b1bc9284fc713e995bbae1d0a8456",
             "size": 15218943
         },
         {
@@ -6197,7 +6197,7 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "6b7152dcbe6428b44fa6824b6c4efe70a2d7bea6af895c4375ab872d9be58d73",
+            "sha256": "94a37fcfc6ac7e2303a1dc015e6a14a61ae4ee41e518209688bdb4a7ad55a886",
             "size": 36336564
         },
         {
@@ -7261,6 +7261,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-08T23:58:41",
+    "generated": "2026-10-09T18:23:10",
     "version": 1
 }
