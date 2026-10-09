@@ -187,8 +187,8 @@
         },
         {
             "path": "DataTable/en-ph/NDItem.edf",
-            "sha256": "6b2445d7d6cc780af0e9fd1f5486898c5e4ef87a60be96b62a3cfbda50510dfb",
-            "size": 7790186
+            "sha256": "8ce41d347ffac4ebc8571a598b97688025d6b71c59e5f4d57bf7d60211c2eefd",
+            "size": 7790209
         },
         {
             "path": "DataTable/en-ph/NDItemCash.edf",
@@ -227,7 +227,7 @@
         },
         {
             "path": "DataTable/en-ph/NDStore.edf",
-            "sha256": "87d5fa5c3edebc8bac3ce7c1c1f0f5251a7183b6b9177a6f4ea7404799fbedc7",
+            "sha256": "c6a3c7181d0c1c813e6713a49588eb63227ef2fb3f7db5f252a5a8e876941f07",
             "size": 72090
         },
         {
@@ -267,7 +267,7 @@
         },
         {
             "path": "DataTable/Item.edf",
-            "sha256": "dfa8021444fbbc8fd7b5ed6c13b4135c8794bd8dfc8ffb7718b8bb27a8033bfc",
+            "sha256": "1687e8b25fd114edcd4eb61d17a2ea47595add08a5ab696e450aca5820236ae6",
             "size": 15218943
         },
         {
@@ -312,7 +312,7 @@
         },
         {
             "path": "DataTable/Quest.edf",
-            "sha256": "977e6e33cd9d1980d444373d8a74d0e6bcbbdb06add11d65e2ca99bd1f21324a",
+            "sha256": "752c8cba17332ec41df514597f08b6bbdbf4fdbe8ab646da6629ee260382fcab",
             "size": 1299441
         },
         {
@@ -527,7 +527,7 @@
         },
         {
             "path": "DataTable/Store.edf",
-            "sha256": "51b353c10102736a51eeae6b2715377cb5179d45c752e2991bc58ed083c59eb9",
+            "sha256": "2af030dac5229bc3f09d88287d6a5f05996b3b72de89997ee52c39fcc63e9590",
             "size": 567417
         },
         {
@@ -6197,8 +6197,8 @@
         },
         {
             "path": "SpriteImage/en-ph/item.spr",
-            "sha256": "d84e1a765790f5122bb4697b7d8e0b1f3f7d728ba5ee0d42f3f347cc9710a9c9",
-            "size": 33846196
+            "sha256": "6b7152dcbe6428b44fa6824b6c4efe70a2d7bea6af895c4375ab872d9be58d73",
+            "size": 36336564
         },
         {
             "path": "SpriteImage/en-ph/itemupgrade.spr",
@@ -7261,6 +7261,6 @@
             "size": 249144
         }
     ],
-    "generated": "2026-10-07T23:06:45",
+    "generated": "2026-10-08T23:58:41",
     "version": 1
 }
